@@ -1,9 +1,9 @@
 <?php
 /*
- * Plugin Name:       Custom Auto Updater: Themes and Plugins
+ * Plugin Name:       Custom Auto Updater
  * Plugin URI:        https://github.com/web-soudan/custom-auto-updater
  * Description:       Enable auto update of themes and plugins from an external server.
- * Version:           0.0.1
+ * Version:           0.0.2
  * Requires at least: 6.0
  * Requires PHP:      8.0
  * Author:            websoudan

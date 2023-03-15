@@ -1,10 +1,10 @@
-=== Custom Auto Updater: Themes and Plugins ===
+=== Custom Auto Update ===
 Contributors: websoudan
 Donate link: https://web-soudan.co.jp
 Tags: Update, Auto, Update
 Requires at least: 6.0
 Tested up to: 6.1.1
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
